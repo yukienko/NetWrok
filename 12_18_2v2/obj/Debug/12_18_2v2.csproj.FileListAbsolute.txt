@@ -1,0 +1,14 @@
+E:\C#Learn\12_18_2v2\12_18_2v2\bin\Debug\12_18_2v2.exe.config
+E:\C#Learn\12_18_2v2\12_18_2v2\bin\Debug\12_18_2v2.exe
+E:\C#Learn\12_18_2v2\12_18_2v2\bin\Debug\12_18_2v2.pdb
+E:\C#Learn\12_18_2v2\12_18_2v2\obj\Debug\12_18_2v2.csprojAssemblyReference.cache
+E:\C#Learn\12_18_2v2\12_18_2v2\obj\Debug\12_18_2v2.csproj.CoreCompileInputs.cache
+E:\C#Learn\12_18_2v2\12_18_2v2\obj\Debug\12_18_2v2.exe
+E:\C#Learn\12_18_2v2\12_18_2v2\obj\Debug\12_18_2v2.pdb
+E:\C#Learn\NetWork\12_18_2v2\bin\Debug\12_18_2v2.exe.config
+E:\C#Learn\NetWork\12_18_2v2\bin\Debug\12_18_2v2.exe
+E:\C#Learn\NetWork\12_18_2v2\bin\Debug\12_18_2v2.pdb
+E:\C#Learn\NetWork\12_18_2v2\obj\Debug\12_18_2v2.csprojAssemblyReference.cache
+E:\C#Learn\NetWork\12_18_2v2\obj\Debug\12_18_2v2.csproj.CoreCompileInputs.cache
+E:\C#Learn\NetWork\12_18_2v2\obj\Debug\12_18_2v2.exe
+E:\C#Learn\NetWork\12_18_2v2\obj\Debug\12_18_2v2.pdb
